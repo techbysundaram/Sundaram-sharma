@@ -5,7 +5,7 @@ I term myself a "creative problem solver" because I like to solve problems with 
 My Skills are the following.
 
 * Adobe Suite: Adobe XD
-* Programming Languages: Kotlin, JAVA, C++, C, C#
+* Programming Languages: Kotlin, JAVA, C++, C, C#, Javascript
 * Web Development: HTML, CSS
 * Database Development: SQLite, Firebase
 * Microsoft Offices: Word, PowerPoint, Access, and Excel
